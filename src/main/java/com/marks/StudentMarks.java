@@ -6,18 +6,19 @@
 package com.marks;
 
 public class StudentMarks {
-    private int sum;
 
     public int calculateMarks(int math, int physics, int chemistry, int biology) {
-        sum = math + physics + chemistry + biology;
-        return sum;
+        return math + physics + chemistry + biology;
 
     }
 
-    public int calculateMarks(int math, int physics, int chemistry) {
-        sum = math + physics + chemistry;
-        return sum;
+    public double calculateMarks(double math, int physics, int chemistry) {
+        return math + physics + chemistry;
 
+    }
+
+    public int calculateMarks(int businessStudies, int finance, int accounting) {
+        return businessStudies + finance + accounting;
     }
 
 }
