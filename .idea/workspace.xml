@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c9209ec-6758-4cf4-b30b-cafb759cf744" name="Changes" comment="created a method to calculateMarks() for the business in StudentMarks type" />
+    <list default="true" id="3c9209ec-6758-4cf4-b30b-cafb759cf744" name="Changes" comment="created an object to call the StudentMarks class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/marks/StudentMarksImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marks/StudentMarksImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661844916633</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added StudentMarksImpl.java class">
+      <created>1661844979995</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661844979995</updated>
+    </task>
+    <task id="LOCAL-00009" summary="created an object to call the StudentMarks class">
+      <created>1661845050822</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661845050822</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +136,9 @@
     <MESSAGE value="created a method to calculateMarks() for medical pathway in StudentMarks type" />
     <MESSAGE value="created a method to calculateMarks() for the non-medical in StudentMarks type" />
     <MESSAGE value="created a method to calculateMarks() for the business in StudentMarks type" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a method to calculateMarks() for the business in StudentMarks type" />
+    <MESSAGE value="added StudentMarksImpl.java class" />
+    <MESSAGE value="created an object to call the StudentMarks class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created an object to call the StudentMarks class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
