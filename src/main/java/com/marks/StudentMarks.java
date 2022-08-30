@@ -6,4 +6,12 @@
 package com.marks;
 
 public class StudentMarks {
+    private int sum;
+
+    public int calculateMarks(int math, int physics, int chemistry, int biology) {
+        sum = math + physics + chemistry + biology;
+        return sum;
+
+    }
+
 }
